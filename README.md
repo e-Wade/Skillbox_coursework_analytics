@@ -9,6 +9,7 @@
 
 ## Codebook
 
+`main_notebook.ipynb` содержит основной код <br><br>
 `courses.csv` содержит следующие значения: <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp; `id` – идентификатор курса <br>
 &nbsp;&nbsp;&nbsp;&nbsp; `title` – название курса <br>
